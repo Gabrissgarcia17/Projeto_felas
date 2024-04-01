@@ -22,3 +22,18 @@ style.css
  font-size: 24px;
 
 }
+.escola-imagem{
+    width: 320px;
+    height: 313px;
+    }
+    
+    .escola{
+        background-image: linear-gradient(#1a6bd4,#ffffff);
+        color: rgba(0, 0, 0, 0);
+        display: flex;
+    }
+    
+    
+        .conteudo{
+            width: 35%;
+        }
