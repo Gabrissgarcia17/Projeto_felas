@@ -1,39 +1,52 @@
 style.css
-
 *{
     margin: 0;
     padding: 0;
 }
 
+body{
+    font-family: "Poppins", sans-serif;
+}
+
+
 .cabecalho{
-    background-color: #fffb00;
-    color: rgb(11, 120, 223);
+    background: rgb(255, 251, 0);
+    color: rgb(9, 89, 207);
     display: flex;
     justify-content: space-around;
     align-items: center;
     padding: 24px 0;
 }
+
 .imagem-cabecalho{
     width: 20%;
 }
+
 .cabecalho-item{
- display: inline-block;
- margin: 0  16px;
- font-size: 24px;
+    display: inline-block;
+    margin: 0  16px;
+    font-size: 24px ;
 
 }
-.escola-imagem{
+
+
+.flamengo-imagem{
     width: 320px;
     height: 313px;
-    }
-    
-    .selecao{
-        background-image: linear-gradient(#1a6bd4,#ffffff);
-        color: rgba(0, 0, 0, 0);
-        display: flex;
-    }
-    
-    
-        .conteudo{
-            width: 35%;
-        }
+}
+.flamengo{
+    background-image: linear-gradient(rgb(255, 251, 0), rgba(18, 100, 224, 0));
+    color:white;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px;
+}
+
+.conteudo{
+    width: 35%
+}
+
+.flamengo-titulo{
+    padding: 24px;
+}
