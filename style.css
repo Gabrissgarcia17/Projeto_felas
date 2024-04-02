@@ -36,7 +36,7 @@ body{
 }
 .selecao{
     background-image: linear-gradient(rgb(255, 251, 0), rgba(18, 100, 224, 0));
-    color:white;
+    color:rgb(36, 34, 34);
     display:flex;
     justify-content: center;
     align-items: center;
