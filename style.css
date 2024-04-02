@@ -35,7 +35,7 @@ body{
     height: 313px;
 }
 .selecao{
-    background-image: linear-gradient(rgb(255, 251, 0), rgba(18, 100, 224, 0));
+    background-image: linear-gradient(rgb(255, 251, 0), rgba(11, 99, 231, 0));
     color:rgb(36, 34, 34);
     display:flex;
     justify-content: center;
