@@ -30,11 +30,11 @@ body{
 }
 
 
-.flamengo-imagem{
+.selecao-imagem{
     width: 320px;
     height: 313px;
 }
-.flamengo{
+.selecao{
     background-image: linear-gradient(rgb(255, 251, 0), rgba(18, 100, 224, 0));
     color:white;
     display:flex;
@@ -47,6 +47,6 @@ body{
     width: 35%
 }
 
-.flamengo-titulo{
+.selecao-titulo{
     padding: 24px;
 }
